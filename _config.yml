@@ -12,7 +12,7 @@ description:  LeeDongHeon(이동헌)<br>telephone: 010-3600-1578<br>address: 한
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ispine
 
 # Build settings
 markdown: kramdown
