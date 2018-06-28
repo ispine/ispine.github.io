@@ -8,7 +8,7 @@
 # Site settings
 title: LeeDongHeon
 email: pine1578@naver.com
-description:  LeeDongHeon(이동헌)<br>telephone: 010-3600-1578<br>address: 한빛관 302호(Intelligence Software lab)
+description:  LeeDongHeon(이동헌)<br></br>telephone: 010-3600-1578<br></br>address: 한빛관 302호(Intelligence Software lab)
 baseurl:  # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
